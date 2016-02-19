@@ -1,8 +1,8 @@
-test-package
-------------
+erikwestra-test-package
+-----------------------
 
 This is a simple test package.  To use it, type::
 
-    from package import tst
+    from erikwestra_test_package import test
     test.run()
 
